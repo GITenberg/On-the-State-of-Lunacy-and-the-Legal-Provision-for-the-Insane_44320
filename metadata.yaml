@@ -1,0 +1,33 @@
+_repo: On-the-State-of-Lunacy-and-the-Legal-Provision-for-the-Insane_44320
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44320-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Arlidge, J. T. (John Thomas)
+    alias: Arlidge, John Thomas
+    birthdate: 1822
+    deathdate: 1899
+    gutenberg_agent_id: '42693'
+    url: http://www.gutenberg.org/2009/agents/42693
+description: ''
+gutenberg_issued: '2013-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44320'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychiatric epidemiology'
+- !lcsh 'Psychology, Pathological -- Epidemiology'
+- !lcsh 'Insanity (Law) -- Great Britain'
+- !lcsh 'Psychiatric hospitals -- Great Britain'
+- !lcc 'KD'
+- !lcsh 'Mentally ill -- Care -- Great Britain'
+- !lcsh 'Mental health services -- Great Britain'
+title: "On the State of Lunacy and the Legal Provision for the Insane\r\nWith Observations\
+  \ on the Construction and Organization of Asylums"
+url: http://www.gutenberg.org/ebooks/44320
